@@ -1,0 +1,19 @@
+Thong tin tu giac A:
+a = 1
+b = 2
+c = 3
+d = 4
+Nua chu vi cua tu giac A: 5
+Thong tin tu giac B:
+a = 2
+b = 2
+c = 2
+d = 2
+Nua chu vi cua tu giac B: 4
+Thong tin tu giac C:
+a = 3
+b = 4
+c = 5
+d = 6
+Nua chu vi cua tu giac B: 9
+B la tu giac co 4 canh bang nhau
